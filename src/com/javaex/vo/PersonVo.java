@@ -52,6 +52,13 @@ public class PersonVo {
 		this.company = company;
 	}
 
+	@Override
+	public String toString() {
+		return "PersonVo [personId=" + personId + ", name=" + name + ", hp=" + hp + ", company=" + company + "]";
+	}
+	
+	
+
 	
 	
 
