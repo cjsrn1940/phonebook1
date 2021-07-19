@@ -17,14 +17,4 @@
 	//리다이렉트(리스트요청);
 	response.sendRedirect("./list.jsp");
 %>
-    
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Insert title here</title>
-</head>
-<body>
-
-</body>
-</html>
+   
